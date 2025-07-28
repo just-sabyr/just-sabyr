@@ -1,6 +1,6 @@
 ## Hi, Sabyr here
 
-## Academia 📚
+## Education 📚
 - CIE AS & A Levels in Physics, Mathematics, Computer Science (A, A, A*)
 - Bachelor's of Computer Engineering @ Istanbul Technical University
 
