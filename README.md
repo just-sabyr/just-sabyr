@@ -5,11 +5,11 @@
 - Bachelor's of Computer Engineering @ Istanbul Technical University
 
 ## Projects 💡
-- (Few-Shot, One-Shot, Zero-Shot Method Solution to Fake or Real Competition)[https://www.kaggle.com/code/sabyrbazarymbetov/gemma-3n-baseline-score-0-695]  
-- (Image Classification using a pretrained CNN model for feature extraction)[https://www.kaggle.com/code/sabyrbazarymbetov/cleaner-than-dirty]
+- [Few-Shot, One-Shot, Zero-Shot Method Solution to Fake or Real Competition](https://www.kaggle.com/code/sabyrbazarymbetov/gemma-3n-baseline-score-0-695)
+- [Image Classification using a pretrained CNN model for feature extraction](https://www.kaggle.com/code/sabyrbazarymbetov/cleaner-than-dirty)
 
 ## Connect via 📫
-- (Kaggle)[https://www.kaggle.com/sabyrbazarymbetov]
+- [Kaggle](https://www.kaggle.com/sabyrbazarymbetov)
 
 ## Hobbies
 - Table Tennis 🏓
